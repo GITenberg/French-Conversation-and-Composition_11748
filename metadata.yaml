@@ -1,0 +1,28 @@
+_repo: French-Conversation-and-Composition_11748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wann, Harry Vincent
+    birthdate: 1887
+    gutenberg_agent_id: '4091'
+    url: http://www.gutenberg.org/2009/agents/4091
+description: ''
+gutenberg_bookshelf:
+- Language Education
+- FR Education et Enseignement
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11748'
+language:
+- fr
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Composition and exercises'
+- !lcc 'PC'
+- GITenberg
+title: French Conversation and Composition
+url: http://www.gutenberg.org/ebooks/11748
