@@ -1,5 +1,8 @@
 _repo: French-Conversation-and-Composition_11748
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wann, Harry Vincent
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4091'
     url: http://www.gutenberg.org/2009/agents/4091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11748#French-Conversation-and-Composition
 gutenberg_bookshelf:
 - Language Education
 - FR Education et Enseignement
